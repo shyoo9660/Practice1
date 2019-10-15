@@ -1,0 +1,23 @@
+2019. 10. 15 Tuesday Game contents school tmdgns9660@naver.com
+
+Title : BTS Tool practice
+
+git base, github base
+
+cd c:/ c로 이동
+cd (?) (?)로 이동
+pwd 현재 위치 확인
+ls 현재 위치 파일 내용 확인
+git init : 저장소 초기화
+git status : 저장소 상태 확인
+git add : 파일을 색인에 등록
+git commit : 메시지 커밋
+mkdir (?) : (?)파일 생성
+git branch : 브랜치 목록 확인
+git branch (?) : (?)브랜치 생성
+git merge (?) : 현재 브랜치와 (?)브랜치를 병합
+git switch (?) : 현재 브랜치에서 (?)브랜치로 변경
+git rm (?) : (?)파일 삭제
+git checkout (?) : (?)파일 복구
+git log : 작업 내용 출력
+
